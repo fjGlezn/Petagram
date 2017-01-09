@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="texto_boton_click">Click</string>
+    <string name="texto_titulo">Hello World!</string>
+    <string name="texto_favorito">Favorito :)</string>
+    <string name="texto_accion">Acción</string>
+    
+    <!-- Lista de planetas para el ListView-->}
+    
+    <string-array name="planetas">
+
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>Tierra</item>
+        <item>Marte</item>
+        <item>Jupiter</item>
+
+    </string-array>
+
+
+    <string-array name="planetas2">
+
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>Tierra</item>
+        <item>Marte</item>
+        <item>Jupiter</item>
+        <item>Saturno</item>
+        <item>Urano</item>
+        <item>Neptuno</item>
+
+    </string-array>
+
+    <string name="titulo_tarjeta">Android 5.0</string>
+    <string name="descripcion_tarjeta">Está es la versión en la que se incluyó Material Design, Android Lollipop</string>
+</resources>
